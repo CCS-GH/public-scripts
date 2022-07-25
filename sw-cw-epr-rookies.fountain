@@ -9,6 +9,19 @@ Notes:
 
 ===
 
+# Intro
+EST. CLONE ARMY
+EST. RISHI MOON LANDSCAPE
+A NEEBRAY MANTA flies by.
+SWINGS AND CUTS TO:
+
+EXT. REPUBLIC OUTPOST
+CUT TO: CLOSEUP DECK OFFICERS
+NARRATOR
+(VO)
+Clone forces rally. As the war escalates in the Outerrim, the Jedi knights are spread thinly across the galaxy. Many new clones are rushed into service to support their Jedi generals. Unfortunately, because of the relentless demands of battle, many young clones must join the struggle before their intensive training has been completed. These clones, manning of a whole network of tracking stations, are all that stands between the Republic and invasion.
+
+
 EXT. REPUBLIC OUTPOST
 
 DECK OFFICER
@@ -22,19 +35,35 @@ DROID RADIO BROADCASTER
 You're listening to the grand army of the Republic broadcast. The voice of the Outerrim.
 This next one goes out to yet another CLONE division you've never heard of and couldn't care less about.
 
+Some CLONE TROOPERS are standing around a table.
+FIVES and another CLONE are arm wrestling.
+FIVES wins.
+
 HEVY
 Yes! Who's next? FIVES?
 
 FIVES
-Shouldn't you be watching your scopes, HEVY?
+Uh... Shouldn't you be watching your scopes, HEVY?
 
 HEVY
-Let's take a look. Well, you know? All clear. Just like the last thousand times I looked at it.
+(sarcastic)
+Let's take a look. 
+
+HEVY swings to his console
+CUT TO: CONSOLE
+and checks his scopes.
+>VFX: Screen insert<
+
+HEVY
+(sarcastic)
+Well, you know? All clear. Just like the last thousand times I looked at it.
 
 ECHO
+(reading)
 Personally, I like that it's so quiet out here. I can catch up on the rig manuals.
 
 CUTUP
+(strongly articulating)
 ECHO, what is wrong with you? We should be out on the front lines, blasting droids.
 
 HEVY
@@ -48,8 +77,15 @@ Yeah.
 CUTUP
 You may not realise it yet, FIVES, but you landed on the most boring post in the Outerrim.
 
+The SARGE enters from behind.
+
 SARGE
 And one of the most important.
+
+ECHO ??? takes a while to process, and then pushes a button on his console.
+
+P.A.
+*rings bell*
 
 ECHO
 Attention! Sergeant on deck!
@@ -61,9 +97,9 @@ ALL
 Sir, yes, sir!
 
 > TRANSITION TO THE REPUBLIC FLEET
-OBI-WAN on bridge of Republic Star Destroyer, looks around and heads to the back communications room where ANAKIN is looking over a holomap
 
 INT. REPUBLIC VENATOR BRIDGE
+OBI-WAN on bridge of Republic Star Destroyer, looks around and heads to the back communications room where ANAKIN is looking over a holomap.
 
 OBI-WAN
 Still here, ANAKIN. When was the last time you slept?
@@ -78,9 +114,13 @@ R2D2
 Beeps
 
 ADMIRAL YULREN
+(enters from main bridge into ops)
 Excuse me, general. Incoming transmission from commander CODY.
 
+CODYS Hologram builds up.
+
 CODY
+(facing each accordingly)
 General Kenobi, General Skywalker.
 
 OBI-WAN:
@@ -95,8 +135,16 @@ Good. Report back once you've arrived.
 CODY
 Copy that. CODY out.
 
+*His Hologram fades away.*
+
 OBI-WAN
 Good man, that CODY. Don't worry, ANAKIN. If General Grievous comes anywhere near this quadrant, we'll know about it.
+
+EST. RISHI MOON
+INT. REPUBLIC OUTPOST MAIN ROOM 
+*Terminal beeps urgently.*
+
+CLONE looks at console, finds the right panel, it shows meteors incoming. (Potential Parody Element: Make the UI even more obviously showcase-build-stupid)
 
 CLONE
 Sir, incoming meteor shower.
@@ -104,19 +152,31 @@ Sir, incoming meteor shower.
 SARGE
 Raise the shield.
 
+CUT TO: Console
+
+CLONE presses the only button next to the screen.
+*Shield builds up sound*
+
 FIVES
 You wanted excitement, HEVY.
 
 HEVY
-(sarcastically)
-Right. Meteor shower.
+(sarcastically excited)
+Right. Huh... Meteor shower.
 
-CUT TO:
-
+EXT. REPUBLIC OUTPOST
+> SWINGS TO INCOMING METEOR, THEN TO POV
+> THEN WIDE SHOT SHIELD IMPACT
+> CUT TO 
 EXT. LANDING POD
+Clean landscape gets hit by multiple impacts.
+*After multiple hits, smokes comes up.*
+*Smoke settles*
+The landing pot appears.
 
-DECK OFFICER
-looking for the meteors only to find a droid landing pod. 
+EXT. REPUBLIC OUTPOST
+
+DECK OFFICER is looking for the meteors only to find a droid landing pod. 
 
     *[Suddenly a droid appears right in his face]*
 
@@ -125,11 +185,24 @@ What the... [screams]
 
     [DECK OFFICER is killed]
 
+EXT. LANDING POD
+Many droids jump out of the landing put.
+
+CUT TO: Landing
+CUT TO: Approaching Base
+CUT TO:
+
+EXT. REPUBLIC OUTPOST
 COMMANDO DROID CAPTAIN
 Get these doors open.
 
 COMMANDO DROID
 Roger, roger.
+
+CUT TO: Panel
+The COMMANDO DROID pulls of the panel and starts causing sparks.
+CUT TO: Full Shot
+CUT TO:
 
 INT. REPUBLIC OUTPOST MAIN ROOM 
 
@@ -139,25 +212,50 @@ CT-327, report in. Sentry, do you copy?
 CLONE
 Interference from the meteors?
 
+Camera dollys to include Fives.
+
 FIVES
-I don't see him down there, sarge.
+I don't see him down there, SARGE.
 
 SARGE
+(points and orders)
 You two, go find him.
 
-    *Two CLONES head to the main door only to be greeted by several COMMANDO DROIDs*
+Two CLONES head to the main door...
 
-CLONE
+INT. REPUBLIC OUTPOST FLOOR
+...only to be greeted by several COMMANDO DROIDs
+
+CLONE 1
 Droids!
 
+
+CUT TO: firing droids walking past.
+*door closes*
+
+INT. REPUBLIC OUTPOST MAIN ROOM 
+SARGE puts his helmet on.
+He grabs his weapon and runs towards the flashes.
+The OTHERS follow.
+
 CLONE
+(shouts)
 Sound the alarm!
+
+ECHO presses the alarm button, but it only plays the windows error sound.
 
 ECHO
 They've disabled the beacon.
 
+FIVES
+(to ECHO)
+Where's your helmet, Mr Protocol?
+
 SARGE
+(shouting)
 Get a message to the fleet! We have to warn...
+
+    *[The SARGE gets hit in the knee]*
 
 ECHO
 Sarge!
